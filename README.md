@@ -30,7 +30,7 @@ This is my portfolio page
 chrome-extension://mcbpblocgmgfnpjjppndjkmgjaogfceg/fsCaptured.html#
 
 ### Links
- Git hub- (https://github.com/Josh-Adey/portfolio)
+## [Website Preview](https://josh-adey.github.io/portfolio/)
 
 
 ## My process
